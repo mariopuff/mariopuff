@@ -20,7 +20,7 @@ as you can see i have a lot of social connections
 
 <h2 id=stats>my stats.</h2>
 
-[![Choppie's GitHub stats](https://github-readme-stats.vercel.app/api?username=chppie&show_icons=true&theme=transparent&text_color=ffffff&title_color=ffffff&hide_rank=true&hide_border=true)](https://github.com/chppie)
+[![Choppie's GitHub stats](https://github-readme-stats.vercel.app/api?username=chppyy&show_icons=true&theme=transparent&text_color=ffffff&title_color=ffffff&hide_rank=true&hide_border=true)](https://github.com/chppyy)
 
 <h4 id=cre>credits</h4>
 
