@@ -28,7 +28,10 @@ these are all of my other accounts i've created in the past.
 [discord personal cloud]
 [![Discord](https://dcbadge.vercel.app/api/shield/1119587808013733888?style=flat&theme=full-presence&compact=true&logoColor=ffffff)](https://discord.com/users/1119587808013733888)
 
+<h4 id=git>GitHub</h4>
 
+[old github account] `Sprnigbonnie`
+[![GitHub followers](https://img.shields.io/github/followers/Sprnigbonnie?label=%40Sprnigbonnie&logo=github&labelColor=db9216&color=353945)](https://github.com/Sprnigbonnie)
 
 <h2 id=stats>my stats.</h2>
 
