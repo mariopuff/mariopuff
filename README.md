@@ -31,7 +31,7 @@ these are all of my other accounts i've created in the past.
 <h4 id=git>GitHub</h4>
 
 [old github account] `Sprnigbonnie`
-[![GitHub followers](https://img.shields.io/github/followers/Sprnigbonnie?label=%40Sprnigbonnie&logo=github&labelColor=db9216&color=353945)](https://github.com/Sprnigbonnie)
+[![GitHub followers](https://img.shields.io/github/followers/deadspringlock?label=%40Sprnigbonnie&logo=github&labelColor=db9216&color=353945)](https://github.com/deadspringlock)
 
 <h2 id=stats>my stats.</h2>
 
