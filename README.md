@@ -33,6 +33,20 @@ these are all of my other accounts i've created in the past.
 [old github account] `Sprnigbonnie`
 [![GitHub followers](https://img.shields.io/github/followers/deadspringlock?label=%40deadspringlock&logo=github&labelColor=db9216&color=353945)](https://github.com/deadspringlock)
 
+<h2 id=games>my favorite games along the years!!</h2>
+
+i have a lot of favorite games, the earliest being the mario franchise in 2019, the newest being the stanley parable in november 2023.
+
+[![Static Badge](https://img.shields.io/badge/Super%20Mario-2019+-17419a?logo=nintendoswitch&logoColor=ffffff&labelColor=e0102f)](https://mario.nintendo.com)
+[![Static Badge](https://img.shields.io/badge/Five%20Nights%20at%20Freddy's-2021*+-b6663a?labelColor=90512e)](https://store.steampowered.com/app/319510/Five_Nights_at_Freddys/)
+[![Static Badge](https://img.shields.io/badge/Minecraft-2021%2B-825432?logo=minecraft&logoColor=ffffff&labelColor=80c71f)](https://www.minecraft.net/en-us)
+[![Static Badge](https://img.shields.io/badge/osu!-2022%2B-fd7bb5?logo=osu!&logoColor=ffffff&labelColor=ff66aa)](https://osu.ppy.sh/home)
+[![Static Badge](https://img.shields.io/badge/-2022+-8b8b8b?logo=wii&logoColor=ffffff&labelColor=009ac7)](https://wii.com//)
+[![Static Badge](https://img.shields.io/badge/Chess.com-2022-818e70?labelColor=8ca464)](https://www.chess.com/)
+[![Static Badge](https://img.shields.io/badge/Superliminal-2023+-8d453b?labelColor=bd121f)](https://store.steampowered.com/app/1049410/Superliminal/)
+[![Static Badge](https://img.shields.io/badge/The%20Stanley%20Parable-2023+-c6b21d?labelColor=353942)](https://store.steampowered.com/app/221910/The_Stanley_Parable/)
+
+
 <h2 id=stats>my stats.</h2>
 
 [![Choppie's GitHub stats](https://github-readme-stats.vercel.app/api?username=chppyy&show_icons=true&theme=transparent&text_color=ffffff&title_color=ffffff&hide_rank=true&hide_border=true)](https://github.com/chppyy)
