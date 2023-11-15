@@ -6,7 +6,7 @@ hi! i'm choppy. i'm also known as the creator of my own object show, <a href="ht
 
 <h2 id=social>my socials.</h2>
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVPYKUzSphhg6Z8WRwthrxQ?style=flat&logo=youtube&logoColor=ffffff&label=Mario_184&labelColor=ff0000&color=4c439b)](https://www.youtube.com/channel/UCVPYKUzSphhg6Z8WRwthrxQ)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVPYKUzSphhg6Z8WRwthrxQ?style=flat&logo=youtube&logoColor=ffffff&label=Mario_184&labelColor=ff0000&color=ffffff)](https://www.youtube.com/channel/UCVPYKUzSphhg6Z8WRwthrxQ)
 [![Discord @Japanisme#6020](https://dcbadge.vercel.app/api/shield/832629415828914248?style=flat&theme=full-presence&compact=true&logoColor=ffffff)](https://discord.com/users/832629415828914248)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/sjm184?label=%40sjm184&style=flat&logo=x&logoColor=white&labelColor=000000&color=00acee)](https://twitter.com/sjm184)
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/SJM184?style=flat&logo=reddit&logoColor=white&label=u%2FSJM184&labelColor=FF4500&color=%231f1e1e)](https://www.reddit.com/user/SJM184)
