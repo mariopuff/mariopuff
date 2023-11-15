@@ -17,6 +17,20 @@ as you can see i have a lot of social connections
 
 these are all of my other accounts i've created in the past.
 
+<h4 id=ytalt>YouTube</h4>
+
+[shorts channel] 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTSElFpSa0ZMOIUY3vWFDRw?style=flat&logo=youtube&logoColor=ffffff&label=Mario_184%20SHORTS&labelColor=ff0000&color=ffffff)](https://www.youtube.com/channel/UCTSElFpSa0ZMOIUY3vWFDRw)
+
+[joke channel] 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXwJtRjEvk-F7xY5Xcsxp4g?style=flat&logo=youtube&logoColor=ffffff&label=SMG60&labelColor=ff0000&color=ffffff)](https://www.youtube.com/channel/UCXwJtRjEvk-F7xY5Xcsxp4g)
+
+[musical channel] 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvJOKIf_VC7jcDtXagNsc3Q?style=flat&logo=youtube&logoColor=ffffff&label=Mario_184%20Live%20and%20Music&labelColor=ff0000&color=ffffff)](https://www.youtube.com/channel/UCvJOKIf_VC7jcDtXagNsc3Q)
+
+[company channel] 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCafYBfW5IcdFVNvi_0FupVQ?style=flat&logo=youtube&logoColor=ffffff&label=Nihonbox%20Games&labelColor=ff0000&color=ffffff)](https://www.youtube.com/channel/UCafYBfW5IcdFVNvi_0FupVQ)
+
 <h4 id=dscalt>Discord</h4>
 
 [discord alt 1] `Liy`
@@ -33,10 +47,34 @@ these are all of my other accounts i've created in the past.
 [old github account] `Sprnigbonnie`
 [![GitHub followers](https://img.shields.io/github/followers/deadspringlock?label=%40deadspringlock&logo=github&labelColor=db9216&color=353945)](https://github.com/deadspringlock)
 
+<h2 id=groups>some groups i made</h2>
+
+**discord servers:**
+
+[general]
+[![Static Badge](https://img.shields.io/badge/Mario__184's%20Backroom-%20-17181c?logo=discord&logoColor=ffffff&labelColor=ca0019)](https://discord.gg/ghwf24CAXr)
+
+[fnaf]
+[![Static Badge](https://img.shields.io/badge/Helpy's%20Pizzeria-%20-e4d2f8?logo=discord&logoColor=ffffff&labelColor=c38a9e)](https://discord.gg/9Z5bFCGF5j)
+
+[jolly (fnaf fangame)]
+[![Static Badge](https://img.shields.io/badge/Jolly%20Entertainment-%20-5f6693?logo=discord&logoColor=ffffff&labelColor=080173)](https://discord.gg/JmFU46bWvE)
+
+[politics]
+[![Static Badge](https://img.shields.io/badge/Yugo%E2%80%94Japan%20Alliance-%20-013893?logo=discord&logoColor=ffffff&labelColor=af3144)](https://discord.gg/NjQwgkNu3x)
+
+[minecraft smp 1]
+[![Static Badge](https://img.shields.io/badge/The%20Japanese%E2%80%94Italian%20Minecraft%20SMP-%20-008d45?logo=discord&logoColor=ffffff&labelColor=bc002d)](https://discord.gg/ZjWECyHp)
+
+[minecraft smp 2]
+[![Static Badge](https://img.shields.io/badge/The%20Mathematical%20Japanese%E2%80%94Italian%20Minecraft%20SMP-%20-008d45?logo=discord&logoColor=ffffff&labelColor=bc002d)](https://discord.gg/qU42BkhQPq)
+
+[co-ownered server] (MADE BY [UN4YA](https://discord.com/users/1114504726818586664))
+[![Static Badge](https://img.shields.io/badge/BlueCube%20Discord-%20-09c1d2?logo=discord&logoColor=ffffff&labelColor=0a40c2)](https://discord.gg/8uNpfpp3K5)
+
 <h2 id=games>my favorite games along the years!!</h2>
 
 i have a lot of favorite games, the earliest being the mario franchise in 2019, the newest being the stanley parable in november 2023.
-
 [![Static Badge](https://img.shields.io/badge/Super%20Mario-2019+-17419a?logo=nintendoswitch&logoColor=ffffff&labelColor=e0102f)](https://mario.nintendo.com)
 [![Static Badge](https://img.shields.io/badge/Five%20Nights%20at%20Freddy's-2021*+-b6663a?labelColor=90512e)](https://store.steampowered.com/app/319510/Five_Nights_at_Freddys/)
 [![Static Badge](https://img.shields.io/badge/Minecraft-2021%2B-825432?logo=minecraft&logoColor=ffffff&labelColor=80c71f)](https://www.minecraft.net/en-us)
@@ -45,6 +83,12 @@ i have a lot of favorite games, the earliest being the mario franchise in 2019, 
 [![Static Badge](https://img.shields.io/badge/Chess.com-2022-818e70?labelColor=8ca464)](https://www.chess.com/)
 [![Static Badge](https://img.shields.io/badge/Superliminal-2023+-8d453b?labelColor=bd121f)](https://store.steampowered.com/app/1049410/Superliminal/)
 [![Static Badge](https://img.shields.io/badge/The%20Stanley%20Parable-2023+-c6b21d?labelColor=353942)](https://store.steampowered.com/app/221910/The_Stanley_Parable/)
+
+**symbols:**
+
+**+** : still favoring until this day
+
+***+** : stopped favoring for a brief moment but now favors it until this day
 
 
 <h2 id=stats>my stats.</h2>
