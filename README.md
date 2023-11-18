@@ -1,4 +1,6 @@
-<a href="#">
+<a href="#">![banner](https://cdn.discordapp.com/attachments/1119590057494454274/1175437215472554004/githubbanner.png?ex=656b3a36&is=6558c536&hm=6819276881b14acd8269219b77febcc9b760e0a447944a746f95bbcd86703f94&)</a>
+
+<div align="center">
 
 # somethin' 'bout @chppyy
 
