@@ -7,6 +7,7 @@ hi! i'm choppy. i'm also known as the creator of my own object show, <a href="ht
 [![Static Badge](https://img.shields.io/badge/he%2Fhim-97b6f4?style=flat-square)](https://pronoundb.org)
 [![Static Badge](https://img.shields.io/badge/Genderfluid-%20-bf11d7?style=flat-square&labelColor=ff76a3)](https://pronoundb.org)
 [![Static Badge](https://img.shields.io/badge/December%2025-%20-216536?style=flat-square&labelColor=bd3633)](https://cdn.discordapp.com/attachments/1119590057494454274/1175389796512829440/github-easteregg-v1.png?ex=656b0e0d&is=6558990d&hm=8735e7c426add8393e046969154b604622520414d3e4e93ca3ba06ae8b82400e&)
+[![Static Badge](https://img.shields.io/badge/Japanese-%20-bc002d?style=flat-square&labelColor=ffffff)](https://japan.com)
 
 
 
