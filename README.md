@@ -17,6 +17,7 @@ hi! i'm choppy. i'm also known as the creator of my own object show, <a href="ht
 [![Discord @Japanisme#6020](https://dcbadge.vercel.app/api/shield/832629415828914248?style=flat-square&theme=full-presence&compact=true&logoColor=ffffff)](https://discord.com/users/832629415828914248)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/sjm184?label=%40sjm184&style=flat-square&logo=x&logoColor=white&labelColor=000000&color=00acee)](https://twitter.com/sjm184)
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/SJM184?style=flat-square&logo=reddit&logoColor=white&label=u%2FSJM184&labelColor=FF4500&color=%231f1e1e)](https://www.reddit.com/user/SJM184)
+[![Static Badge](https://img.shields.io/badge/supermariomario184%40gmail.com-9b4723?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:supermariomario184@gmail.com)
 
 as you can see i have a lot of social connections
 
@@ -106,5 +107,5 @@ i have a lot of favorite games, the earliest being the mario franchise in 2019, 
 <h2 id=cre>credits</h2>
 
 this readme.md is inspired by 
-[![GitHub followers](https://img.shields.io/github/followers/brckd?label=%40brckd&logo=github&labelColor=008afb&color=353945)](https://github.com/brckd)
+[![GitHub followers](https://img.shields.io/github/followers/brckd?style=flat-square&label=%40brckd&logo=github&labelColor=008afb&color=353945)](https://github.com/brckd)
 </picture>
