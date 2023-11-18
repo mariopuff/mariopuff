@@ -89,7 +89,7 @@ i have a lot of favorite games, the earliest being the mario franchise in 2019, 
 [![Static Badge](https://img.shields.io/badge/osu!-2022%2B-fd7bb5?style=flat-square&logo=osu!&logoColor=ffffff&labelColor=ff66aa)](https://osu.ppy.sh/home)
 [![Static Badge](https://img.shields.io/badge/-2022+-8b8b8b?style=flat-square&logo=wii&logoColor=ffffff&labelColor=009ac7)](https://wii.com//)
 [![Static Badge](https://img.shields.io/badge/Chess.com-2022-818e70?style=flat-square&labelColor=8ca464)](https://www.chess.com/)
-[![Static Badge](https://img.shields.io/badge/Superliminal-2023+-8d453b?style=flat-square&labelColor=bd121f)](https://store.steampowered.com/app/1049410/Superliminal/)
+[![Static Badge](https://img.shields.io/badge/Superliminal-2023-8d453b?style=flat-square&labelColor=bd121f)](https://store.steampowered.com/app/1049410/Superliminal/)
 [![Static Badge](https://img.shields.io/badge/The%20Stanley%20Parable-2023+-c6b21d?style=flat-square&labelColor=353942)](https://store.steampowered.com/app/221910/The_Stanley_Parable/)
 
 **symbols:**
