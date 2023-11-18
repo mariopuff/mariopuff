@@ -1,6 +1,6 @@
 <h1 id=about>something about @chppyy</h1>
 
-<img alt="Profile Picture" align="right" height="150em" src="smolicy.png">
+<img alt="Profile Picture" align="right" height="150em" src="image_2023-11-18_184329598.png">
 
 hi! i'm choppy. i'm also known as the creator of my own object show, <a href="https://battle-for-23s-hotel.fandom.com/wiki/Battle_for_Twenty-Three%27s_Hotel_Wiki">battle for twenty-three's island</a>. i have some facebook and instagram accounts lying around in my laggy ancient core i3 laptop. i like mario vgms, bill wurtz, and partially jazz. also i'm saving my money to buy a nintendo switch, and a newer laptop with windows 11 in it. ~~raise money for me pls~~
 
