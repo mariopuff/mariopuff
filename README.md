@@ -1,4 +1,6 @@
-<h1 id=about>something about @chppyy</h1>
+<a href="#">
+
+# somethin' 'bout @chppyy
 
 <img alt="Profile Picture" align="right" height="150em" src="image_2023-11-18_184329598.png">
 
@@ -11,7 +13,7 @@ hi! i'm choppy. i'm also known as the creator of my own object show, <a href="ht
 
 
 
-<h2 id=social>my socials.</h2>
+## my socials.
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVPYKUzSphhg6Z8WRwthrxQ?style=flat-square&logo=youtube&logoColor=ffffff&label=Mario_184&labelColor=ff0000&color=ffffff)](https://www.youtube.com/channel/UCVPYKUzSphhg6Z8WRwthrxQ)
 [![Discord @Japanisme#6020](https://dcbadge.vercel.app/api/shield/832629415828914248?style=flat-square&theme=full-presence&compact=true&logoColor=ffffff)](https://discord.com/users/832629415828914248)
@@ -21,11 +23,11 @@ hi! i'm choppy. i'm also known as the creator of my own object show, <a href="ht
 
 as you can see i have a lot of social connections
 
-<h3 id=alts>other accounts</h3>
+### other accounts
 
 these are all of my other accounts i've created in the past.
 
-<h4 id=ytalt>YouTube</h4>
+#### YouTube
 
 [shorts channel] 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTSElFpSa0ZMOIUY3vWFDRw?style=flat-square&logo=youtube&logoColor=ffffff&label=Mario_184%20SHORTS&labelColor=ff0000&color=ffffff)](https://www.youtube.com/channel/UCTSElFpSa0ZMOIUY3vWFDRw)
@@ -39,7 +41,7 @@ these are all of my other accounts i've created in the past.
 [company channel] 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCafYBfW5IcdFVNvi_0FupVQ?style=flat-square&logo=youtube&logoColor=ffffff&label=Nihonbox%20Games&labelColor=ff0000&color=ffffff)](https://www.youtube.com/channel/UCafYBfW5IcdFVNvi_0FupVQ)
 
-<h4 id=dscalt>Discord</h4>
+#### Discord
 
 [discord alt 1] `Liy`
 [![Discord](https://dcbadge.vercel.app/api/shield/913646560838041660?style=flat-square&theme=full-presence&compact=true&logoColor=ffffff)](https://discord.com/users/913646560838041660)
@@ -50,14 +52,14 @@ these are all of my other accounts i've created in the past.
 [discord personal cloud]
 [![Discord](https://dcbadge.vercel.app/api/shield/1119587808013733888?style=flat-square&theme=full-presence&compact=true&logoColor=ffffff)](https://discord.com/users/1119587808013733888)
 
-<h4 id=git>GitHub</h4>
+#### GitHub
 
 [old github account] `Sprnigbonnie`
 [![GitHub followers](https://img.shields.io/github/followers/deadspringlock?label=deadspringlock&style=flat-square&logo=github&labelColor=db9216&color=353945)](https://github.com/deadspringlock)
 
-<h2 id=groups>some groups i made</h2>
+## some groups i made
 
-**discord servers:**
+#### discord servers:
 
 [general]
 [![Static Badge](https://img.shields.io/badge/Mario__184's%20Backroom-%20-17181c?style=flat-square&logo=discord&logoColor=ffffff&labelColor=ca0019)](https://discord.gg/ghwf24CAXr)
@@ -80,7 +82,7 @@ these are all of my other accounts i've created in the past.
 [co-ownered server] (MADE BY [UN4YA](https://discord.com/users/1114504726818586664))
 [![Static Badge](https://img.shields.io/badge/BlueCube%20Discord-%20-09c1d2?style=flat-square&logo=discord&logoColor=ffffff&labelColor=0a40c2)](https://discord.gg/8uNpfpp3K5)
 
-<h2 id=games>my favorite games along the years!!</h2>
+## my favorite games along the years!!
 
 i have a lot of favorite games, the earliest being the mario franchise in 2019, the newest being the stanley parable in november 2023.
 
@@ -100,11 +102,13 @@ i have a lot of favorite games, the earliest being the mario franchise in 2019, 
 ***+** : stopped favoring for a brief moment but now favors it until this day
 
 
-<h2 id=stats>my stats.</h2>
+## my stats.
+
+this only works on dark mode, so uhh yeah
 
 [![Choppie's GitHub stats](https://github-readme-stats.vercel.app/api?username=chppyy&show_icons=true&theme=transparent&text_color=ffffff&title_color=ffffff&hide_rank=true&hide_border=true)](https://github.com/chppyy)
 
-<h2 id=cre>credits</h2>
+## credits
 
 this readme.md is inspired by 
 [![GitHub followers](https://img.shields.io/github/followers/brckd?style=flat-square&label=%40brckd&logo=github&labelColor=008afb&color=353945)](https://github.com/brckd)
