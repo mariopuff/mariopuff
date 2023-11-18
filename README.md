@@ -6,10 +6,10 @@ hi! i'm choppy. i'm also known as the creator of my own object show, <a href="ht
 
 <h2 id=social>my socials.</h2>
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVPYKUzSphhg6Z8WRwthrxQ?style=flat&logo=youtube&logoColor=ffffff&label=Mario_184&labelColor=ff0000&color=ffffff)](https://www.youtube.com/channel/UCVPYKUzSphhg6Z8WRwthrxQ)
-[![Discord @Japanisme#6020](https://dcbadge.vercel.app/api/shield/832629415828914248?style=flat&theme=full-presence&compact=true&logoColor=ffffff)](https://discord.com/users/832629415828914248)
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/sjm184?label=%40sjm184&style=flat&logo=x&logoColor=white&labelColor=000000&color=00acee)](https://twitter.com/sjm184)
-[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/SJM184?style=flat&logo=reddit&logoColor=white&label=u%2FSJM184&labelColor=FF4500&color=%231f1e1e)](https://www.reddit.com/user/SJM184)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVPYKUzSphhg6Z8WRwthrxQ?style=flat-square&logo=youtube&logoColor=ffffff&label=Mario_184&labelColor=ff0000&color=ffffff)](https://www.youtube.com/channel/UCVPYKUzSphhg6Z8WRwthrxQ)
+[![Discord @Japanisme#6020](https://dcbadge.vercel.app/api/shield/832629415828914248?style=flat-square&theme=full-presence&compact=true&logoColor=ffffff)](https://discord.com/users/832629415828914248)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/sjm184?label=%40sjm184&style=flat-square&logo=x&logoColor=white&labelColor=000000&color=00acee)](https://twitter.com/sjm184)
+[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/SJM184?style=flat-square&logo=reddit&logoColor=white&label=u%2FSJM184&labelColor=FF4500&color=%231f1e1e)](https://www.reddit.com/user/SJM184)
 
 as you can see i have a lot of social connections
 
@@ -20,13 +20,13 @@ these are all of my other accounts i've created in the past.
 <h4 id=ytalt>YouTube</h4>
 
 [shorts channel] 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTSElFpSa0ZMOIUY3vWFDRw?style=flat&logo=youtube&logoColor=ffffff&label=Mario_184%20SHORTS&labelColor=ff0000&color=ffffff)](https://www.youtube.com/channel/UCTSElFpSa0ZMOIUY3vWFDRw)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTSElFpSa0ZMOIUY3vWFDRw?style=flat-square&logo=youtube&logoColor=ffffff&label=Mario_184%20SHORTS&labelColor=ff0000&color=ffffff)](https://www.youtube.com/channel/UCTSElFpSa0ZMOIUY3vWFDRw)
 
 [joke channel] 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXwJtRjEvk-F7xY5Xcsxp4g?style=flat&logo=youtube&logoColor=ffffff&label=SMG60&labelColor=ff0000&color=ffffff)](https://www.youtube.com/channel/UCXwJtRjEvk-F7xY5Xcsxp4g)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXwJtRjEvk-F7xY5Xcsxp4g?style=flat-square&logo=youtube&logoColor=ffffff&label=SMG60&labelColor=ff0000&color=ffffff)](https://www.youtube.com/channel/UCXwJtRjEvk-F7xY5Xcsxp4g)
 
 [musical channel] 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvJOKIf_VC7jcDtXagNsc3Q?style=flat&logo=youtube&logoColor=ffffff&label=Mario_184%20Live%20and%20Music&labelColor=ff0000&color=ffffff)](https://www.youtube.com/channel/UCvJOKIf_VC7jcDtXagNsc3Q)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvJOKIf_VC7jcDtXagNsc3Q?style=flat-square&logo=youtube&logoColor=ffffff&label=Mario_184%20Live%20and%20Music&labelColor=ff0000&color=ffffff)](https://www.youtube.com/channel/UCvJOKIf_VC7jcDtXagNsc3Q)
 
 [company channel] 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCafYBfW5IcdFVNvi_0FupVQ?style=flat&logo=youtube&logoColor=ffffff&label=Nihonbox%20Games&labelColor=ff0000&color=ffffff)](https://www.youtube.com/channel/UCafYBfW5IcdFVNvi_0FupVQ)
@@ -34,18 +34,18 @@ these are all of my other accounts i've created in the past.
 <h4 id=dscalt>Discord</h4>
 
 [discord alt 1] `Liy`
-[![Discord](https://dcbadge.vercel.app/api/shield/913646560838041660?style=flat&theme=full-presence&compact=true&logoColor=ffffff)](https://discord.com/users/913646560838041660)
+[![Discord](https://dcbadge.vercel.app/api/shield/913646560838041660?style=flat-square&theme=full-presence&compact=true&logoColor=ffffff)](https://discord.com/users/913646560838041660)
 
 [discord alt 2] `Cloudy`
-[![Discord](https://dcbadge.vercel.app/api/shield/936172812564041768?style=flat&theme=full-presence&compact=true&logoColor=ffffff)](https://discord.com/users/936172812564041768)
+[![Discord](https://dcbadge.vercel.app/api/shield/936172812564041768?style=flat-square&theme=full-presence&compact=true&logoColor=ffffff)](https://discord.com/users/936172812564041768)
 
 [discord personal cloud]
-[![Discord](https://dcbadge.vercel.app/api/shield/1119587808013733888?style=flat&theme=full-presence&compact=true&logoColor=ffffff)](https://discord.com/users/1119587808013733888)
+[![Discord](https://dcbadge.vercel.app/api/shield/1119587808013733888?style=flat-square&theme=full-presence&compact=true&logoColor=ffffff)](https://discord.com/users/1119587808013733888)
 
 <h4 id=git>GitHub</h4>
 
 [old github account] `Sprnigbonnie`
-[![GitHub followers](https://img.shields.io/github/followers/deadspringlock?label=%40deadspringlock&logo=github&labelColor=db9216&color=353945)](https://github.com/deadspringlock)
+[![GitHub followers](https://img.shields.io/github/followers/deadspringlock?label=deadspringlock&style=flat-square&logo=github&labelColor=db9216&color=353945)](https://github.com/deadspringlock)
 
 <h2 id=groups>some groups i made</h2>
 
