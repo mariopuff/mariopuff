@@ -4,14 +4,16 @@
 
 # somethin' 'bout @chppyy
 
-<img alt="Profile Picture" align="right" height="150em" src="image_2023-11-18_184329598.png">
-
-hi! i'm choppy. i'm also known as the creator of my own object show, <a href="https://battle-for-23s-hotel.fandom.com/wiki/Battle_for_Twenty-Three%27s_Hotel_Wiki">battle for twenty-three's island</a>. i have some facebook and instagram accounts lying around in my laggy ancient core i3 laptop. i like mario vgms, bill wurtz, and partially jazz. also i'm saving my money to buy a nintendo switch, and a newer laptop with windows 11 in it. ~~raise money for me pls~~
-
 [![Static Badge](https://img.shields.io/badge/he%2Fhim-97b6f4?style=flat-square)](https://pronoundb.org)
 [![Static Badge](https://img.shields.io/badge/Genderfluid-%20-bf11d7?style=flat-square&labelColor=ff76a3)](https://pronoundb.org)
 [![Static Badge](https://img.shields.io/badge/December%2025-%20-216536?style=flat-square&labelColor=bd3633)](https://cdn.discordapp.com/attachments/1119590057494454274/1175389796512829440/github-easteregg-v1.png?ex=656b0e0d&is=6558990d&hm=8735e7c426add8393e046969154b604622520414d3e4e93ca3ba06ae8b82400e&)
 [![Static Badge](https://img.shields.io/badge/Japanese-%20-bc002d?style=flat-square&labelColor=ffffff)](https://japan.com)
+</div>
+
+<img alt="Profile Picture" align="right" height="150em" src="image_2023-11-18_184329598.png">
+
+hi! i'm choppy. i'm also known as the creator of my own object show, <a href="https://battle-for-23s-hotel.fandom.com/wiki/Battle_for_Twenty-Three%27s_Hotel_Wiki">battle for twenty-three's island</a>. i have some facebook and instagram accounts lying around in my laggy ancient core i3 laptop. i like mario vgms, bill wurtz, and partially jazz. also i'm saving my money to buy a nintendo switch, and a newer laptop with windows 11 in it. ~~raise money for me pls~~
+
 
 
 
