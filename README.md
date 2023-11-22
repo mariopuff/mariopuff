@@ -16,8 +16,7 @@ hi! i'm choppy. i'm also known as the creator of my own object show, <a href="ht
 
 
 
-
-## my socials.
+## my main social accounts.
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVPYKUzSphhg6Z8WRwthrxQ?style=flat-square&logo=youtube&logoColor=ffffff&label=Mario_184&labelColor=ff0000&color=ffffff)](https://www.youtube.com/channel/UCVPYKUzSphhg6Z8WRwthrxQ)
 [![Discord @Japanisme#6020](https://dcbadge.vercel.app/api/shield/832629415828914248?style=flat-square&theme=full-presence&compact=true&logoColor=ffffff)](https://discord.com/users/832629415828914248)
@@ -33,37 +32,35 @@ these are all of my other accounts i've created in the past.
 
 #### YouTube
 
-[shorts channel] 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTSElFpSa0ZMOIUY3vWFDRw?style=flat-square&logo=youtube&logoColor=ffffff&label=Mario_184%20SHORTS&labelColor=ff0000&color=ffffff)](https://www.youtube.com/channel/UCTSElFpSa0ZMOIUY3vWFDRw)
-
-[joke channel] 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXwJtRjEvk-F7xY5Xcsxp4g?style=flat-square&logo=youtube&logoColor=ffffff&label=SMG60&labelColor=ff0000&color=ffffff)](https://www.youtube.com/channel/UCXwJtRjEvk-F7xY5Xcsxp4g)
-
-[musical channel] 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvJOKIf_VC7jcDtXagNsc3Q?style=flat-square&logo=youtube&logoColor=ffffff&label=Mario_184%20Live%20and%20Music&labelColor=ff0000&color=ffffff)](https://www.youtube.com/channel/UCvJOKIf_VC7jcDtXagNsc3Q)
-
-[company channel] 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCafYBfW5IcdFVNvi_0FupVQ?style=flat-square&logo=youtube&logoColor=ffffff&label=Nihonbox%20Games&labelColor=ff0000&color=ffffff)](https://www.youtube.com/channel/UCafYBfW5IcdFVNvi_0FupVQ)
+
+<a href="https://www.youtube.com/channel/UCTSElFpSa0ZMOIUY3vWFDRw"><img src="https://yt3.googleusercontent.com/OxEAlZQLeZ0sc15WPr5m9hVX0gp_WCVZs-sEe5LaTiIJX5ubU9Gimfh07PX0IjC8_1Zw8kS-eME=s176-c-k-c0x00ffffff-no-rj" alt="Mario_184 SHORTS (shorts channel)" height="60"/></a>&ensp;
+<a href="https://www.youtube.com/channel/UCXwJtRjEvk-F7xY5Xcsxp4g"><img src="https://yt3.googleusercontent.com/qQRIpnw8r_cXyoBGME9GYPqbhTtTc9_umRKBNUYSOTP5_6HSJ_IAJdMhQnVk-WMx_4XEGDtP=s176-c-k-c0x00ffffff-no-rj" alt="SMG60 (joke channel)" height="60"/></a>&ensp;
+<a href="https://www.youtube.com/channel/UCvJOKIf_VC7jcDtXagNsc3Q"><img src="https://yt3.googleusercontent.com/s-QWUYHBprVPctm3a4aGb4TtvxjnH_MwxNei5oXvIjF9XCoImVI075oRnV43ZLrxdF3r36X9AQ=s176-c-k-c0x00ffffff-no-rj" alt="Mario_184 Live and Music (musical channel)" height="60"/></a>&ensp;
+<a href="https://www.youtube.com/channel/UCafYBfW5IcdFVNvi_0FupVQ"><img src="https://yt3.googleusercontent.com/Vj852ntTXwNEFatCGbDftrPW4S3gPYZODeBd4ibNyKrEIM2bHdAfIp5iW0G4YbsWOHvONHlgTA=s176-c-k-c0x00ffffff-no-rj" alt="Nihonbox Games (company channel)" height="60"/></a>&ensp;
 
 #### Discord
 
-[discord alt 1] `Liy`
 [![Discord](https://dcbadge.vercel.app/api/shield/913646560838041660?style=flat-square&theme=full-presence&compact=true&logoColor=ffffff)](https://discord.com/users/913646560838041660)
-
-[discord alt 2] `Cloudy`
 [![Discord](https://dcbadge.vercel.app/api/shield/936172812564041768?style=flat-square&theme=full-presence&compact=true&logoColor=ffffff)](https://discord.com/users/936172812564041768)
-
-[discord personal cloud]
 [![Discord](https://dcbadge.vercel.app/api/shield/1119587808013733888?style=flat-square&theme=full-presence&compact=true&logoColor=ffffff)](https://discord.com/users/1119587808013733888)
+
+<a href="https://discord.com/users/913646560838041660"><img src="https://cdn.discordapp.com/avatars/913646560838041660/fc9d2fcffd0e692d6dcc695ea7d43bef.webp?size=1024&format=webp&width=0&height=256" alt="Liy (discord alt 1)" height="60"/></a>&ensp;
+<a href="https://discord.com/users/936172812564041768"><img src="https://cdn.discordapp.com/avatars/936172812564041768/01a1e3473457b132dd64253793337cf7.webp?size=1024&format=webp&width=0&height=256" alt="Cloudy (discord alt 2)" height="60"/></a>&ensp;
+<a href="https://discord.com/users/1119587808013733888"><img src="https://cdn.discordapp.com/avatars/1119587808013733888/f29710d21122a0ba1c295fc92f92734f.webp?size=1024&format=webp&width=0&height=256" alt="discord personal cloud" height="60"/></a>&ensp;
 
 #### GitHub
 
-[old github account] `Sprnigbonnie`
 [![GitHub followers](https://img.shields.io/github/followers/deadspringlock?label=deadspringlock&style=flat-square&logo=github&labelColor=db9216&color=353945)](https://github.com/deadspringlock)
+
+<a href="https://github.com/deadspringlock"><img src="https://avatars.githubusercontent.com/u/94040734?v=4" alt="old github account" height="60"/></a>&ensp;
 
 ## some groups i made
 
-#### discord servers:
+#### discord servers
 
 [general]
 [![Static Badge](https://img.shields.io/badge/Mario__184's%20Backroom-%20-17181c?style=flat-square&logo=discord&logoColor=ffffff&labelColor=ca0019)](https://discord.gg/ghwf24CAXr)
@@ -85,6 +82,7 @@ these are all of my other accounts i've created in the past.
 
 [co-ownered server] (MADE BY [UN4YA](https://discord.com/users/1114504726818586664))
 [![Static Badge](https://img.shields.io/badge/BlueCube%20Discord-%20-09c1d2?style=flat-square&logo=discord&logoColor=ffffff&labelColor=0a40c2)](https://discord.gg/8uNpfpp3K5)
+
 
 ## my favorite games along the years!!
 
