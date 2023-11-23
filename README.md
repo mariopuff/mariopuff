@@ -68,9 +68,6 @@ these are all of my other accounts i've created in the past.
 [fnaf]
 [![Static Badge](https://img.shields.io/badge/Helpy's%20Pizzeria-%20-e4d2f8?style=flat-square&logo=discord&logoColor=ffffff&labelColor=c38a9e)](https://discord.gg/9Z5bFCGF5j)
 
-[jolly (fnaf fangame)]
-[![Static Badge](https://img.shields.io/badge/Jolly%20Entertainment-%20-5f6693?style=flat-square&logo=discord&logoColor=ffffff&labelColor=080173)](https://discord.gg/JmFU46bWvE)
-
 [politics]
 [![Static Badge](https://img.shields.io/badge/Yugo%E2%80%94Japan%20Alliance-%20-013893?style=flat-square&logo=discord&logoColor=ffffff&labelColor=af3144)](https://discord.gg/NjQwgkNu3x)
 
