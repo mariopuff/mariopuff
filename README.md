@@ -52,11 +52,6 @@ these are all of my other accounts i've created in the past.
 <a href="https://discord.com/users/936172812564041768"><img src="https://cdn.discordapp.com/avatars/936172812564041768/01a1e3473457b132dd64253793337cf7.webp?size=1024&format=webp&width=0&height=256" alt="Cloudy (discord alt 2)" height="60"/></a>&ensp;
 <a href="https://discord.com/users/1119587808013733888"><img src="https://cdn.discordapp.com/avatars/1119587808013733888/f29710d21122a0ba1c295fc92f92734f.webp?size=1024&format=webp&width=0&height=256" alt="discord personal cloud" height="60"/></a>&ensp;
 
-#### GitHub
-
-[![GitHub followers](https://img.shields.io/github/followers/deadspringlock?label=deadspringlock&style=flat-square&logo=github&labelColor=db9216&color=353945)](https://github.com/deadspringlock)
-
-<a href="https://github.com/deadspringlock"><img src="https://avatars.githubusercontent.com/u/94040734?v=4" alt="old github account" height="60"/></a>&ensp;
 
 ## some groups i made
 
