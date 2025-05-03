@@ -11,6 +11,11 @@
 ![GitHub stars](https://img.shields.io/github/stars/mariopuff?affiliations=OWNER&style=flat-square)
 ![profile views](https://komarev.com/ghpvc/?username=mariopuff&color=blueviolet&style=flat-square)
 
+shout out to my github bros:
+[![max](https://img.shields.io/github/followers/maxeepy?style=flat-square&label=max%20verstappen&labelColor=32b853&color=fff184)
+](https://github.com/maxeepy)
+[![brick](https://img.shields.io/github/followers/brckd?style=flat-square&label=brckd)](https://github.com/brckd)
+
 ---
 
 ## 👤 about me
