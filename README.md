@@ -1,6 +1,12 @@
 # what's good gang i'm mariopuff 🐈
-> you can call me mowko! (or liminalsoups for abstractness but i’ll be surprised if you use that name!!)
+<img src="momocat.png" alt="this is momo, my oc!" align="right" width="160"/>
 
+
+> you can call me mowko! (or liminalsoups for abstractness but i’d be surprised if you use that name!!)
+
+<div align="right"><sub><i>that’s momo,  he’s just vibing. →</i></sub></div>
+
+<br><br>
 ![GitHub followers](https://img.shields.io/github/followers/mariopuff?label=followers&style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/mariopuff?affiliations=OWNER&style=flat-square)
 ![profile views](https://komarev.com/ghpvc/?username=mariopuff&color=blueviolet&style=flat-square)
