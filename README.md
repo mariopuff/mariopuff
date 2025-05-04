@@ -7,14 +7,23 @@
 <div align="right"><sub><i>that’s momo,  he’s just vibing. →</i></sub></div>
 
 <br><br>
-![GitHub followers](https://img.shields.io/github/followers/mariopuff?label=followers&style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/mariopuff?affiliations=OWNER&style=flat-square)
-![profile views](https://komarev.com/ghpvc/?username=mariopuff&color=blueviolet&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/mariopuff?label=followers&style=flat&labelColor=bc002d&color=ffffff)
+![GitHub stars](https://img.shields.io/github/stars/mariopuff?affiliations=OWNER&style=flat&labelColor=bc002d&color=ffffff)
+![profile views](https://komarev.com/ghpvc/?username=mariopuff&color=blueviolet&style=flat&color=bc002d)  
+![HTML](https://img.shields.io/badge/HTML-f16524?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2465f1?logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black)
+![JSON](https://img.shields.io/badge/JSON-F7DF1E?logo=json&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-00a8de?logo=markdown&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
+[![Scratch](https://img.shields.io/badge/-Scratch-FFA500?logo=scratch&logoColor=white&style=flat)](https://scratch.mit.edu/users/Mario_0000/)
+![GML](https://img.shields.io/badge/GameMaker%20Lang-8bd248?logo=gamemaker&logoColor=white)
+
 
 shout out to my github bros:
-[![max](https://img.shields.io/github/followers/maxeepy?style=flat-square&label=max%20verstappen&labelColor=32b853&color=fff184)
-](https://github.com/maxeepy)
-[![brick](https://img.shields.io/github/followers/brckd?style=flat-square&label=brckd)](https://github.com/brckd)
+[![max](https://img.shields.io/github/followers/maxeepy?style=flat&label=max%20verstappen&labelColor=32b853&color=fff184)](https://github.com/maxeepy)
+[![brick](https://img.shields.io/github/followers/brckd?style=flat&label=brckd)](https://github.com/brckd)
 
 ---
 
@@ -25,9 +34,27 @@ shout out to my github bros:
 🏁 host of the F-FORMULA championship  
 🧱 working on **Fulltimate Custom Night** – GameMaker port  
 🚀 learning GameMaker Studio from the ground up – mechanics, language, assets, etc.  
-💌 reach me: [![Static Badge](https://img.shields.io/badge/mariopuff.-5661ea?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/913646560838041660) [![Static Badge](https://img.shields.io/badge/toybunny_-black?style=flat-square&logo=x&logoColor=white)](https://x.com/toybunny_)  
+💌 reach me: [![Discord](https://img.shields.io/badge/mariopuff.-5661ea?style=flat&logo=discord&logoColor=white)](https://discord.com/users/913646560838041660) [![X](https://img.shields.io/badge/toybunny_-black?style=flat&logo=x&logoColor=white)](https://x.com/toybunny_)  
 ⭐ tyler, the creator fan  
 🐱 fun fact: i have a really strong love for cats!!
+
+---
+
+## 🛠️ tools & technologies
+
+[![Scratch](https://img.shields.io/badge/-Scratch-FFA500?logo=scratch&logoColor=white&style=flat)](https://scratch.mit.edu/users/Mario_0000/)
+![GameMaker](https://img.shields.io/badge/-GameMaker-8bd248?logo=gamemaker&logoColor=white&style=flat)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+
+---
+
+## 👥 groups and teams
+
+[![SUBMINIMALteam](https://img.shields.io/badge/SUBMINIMALteam-e67e22?style=for-the-badge&logo=discord&logoColor=white&labelColor=5661ea)](https://discord.gg/fUcPPp3vpP)
+[![FULLTIMATEteam](https://img.shields.io/badge/FULLTIMATEteam-bc002d?style=for-the-badge&logo=discord&logoColor=white&labelColor=5661ea)](https://discord.gg/fUcPPp3vpP)
+[![Static Badge](https://img.shields.io/badge/The%20SeftDen-92edb0?style=for-the-badge&logo=discord&logoColor=white&labelColor=5661ea)](https://discord.gg/DNxzhg5CVe)
+[![Static Badge](https://img.shields.io/badge/Cube%20Central-3d77ce?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5K26fv6MxZ)
 
 ---
 
@@ -37,15 +64,6 @@ shout out to my github bros:
 🏎️ formula one (especially Max Verstappen!)  
 📦 game design, mechanics, and Scratch stuff  
 🎤 tyler tracks and albums
-
----
-
-## 🛠️ tools & technologies
-
-[![Scratch](https://img.shields.io/badge/-Scratch-FFA500?logo=scratch&logoColor=white&style=flat-square)](https://scratch.mit.edu/users/Mario_0000/)
-![GameMaker](https://img.shields.io/badge/-GameMaker-000000?logo=yoyogames&logoColor=white&style=flat-square)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 
 ---
 
@@ -68,13 +86,11 @@ shout out to my github bros:
 ---
 
 ## 🔗 find me elsewhere
-
-[![Twitter](https://img.shields.io/badge/-@toybunny__-black?logo=x&logoColor=white&style=flat-square)](https://x.com/toybunny_)  
-[![YouTube](https://img.shields.io/badge/-Mario__184-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://youtube.com/@mariopuff184)  
-[![Twitch](https://img.shields.io/badge/-mariopuff-9146FF?logo=twitch&logoColor=white&style=flat-square)](https://twitch.tv/mariopuff)  
-[![Spotify](https://img.shields.io/badge/-mariopuff!-1ED760?logo=spotify&logoColor=white&style=flat-square)](https://open.spotify.com/user/xftko2c2nq2exfwg3tes82asl)  
-[![Steam](https://img.shields.io/badge/-hallwayheat-000000?logo=steam&logoColor=white&style=flat-square)](https://steamcommunity.com/id/hallwayheat)  
-[![Roblox](https://img.shields.io/badge/liminalsoups-gray?style=flat-square&logo=roblox&logoColor=white)](https://www.roblox.com/users/6220154646/profile)
+[![YouTube](https://img.shields.io/badge/-Mario__184-FF0000?logo=youtube&logoColor=white&style=flat)](https://youtube.com/@mariopuff184)
+[![Twitch](https://img.shields.io/badge/-mariopuff-9146FF?logo=twitch&logoColor=white&style=flat)](https://twitch.tv/mariopuff)
+[![Spotify](https://img.shields.io/badge/-mariopuff!-1ED760?logo=spotify&logoColor=white&style=flat)](https://open.spotify.com/user/xftko2c2nq2exfwg3tes82asl)
+[![Steam](https://img.shields.io/badge/-hallwayheat-000000?logo=steam&logoColor=white&style=flat)](https://steamcommunity.com/id/hallwayheat)
+[![Roblox](https://img.shields.io/badge/liminalsoups-gray?style=flat&logo=roblox&logoColor=white)](https://www.roblox.com/users/6220154646/profile)
 
 
 ---
