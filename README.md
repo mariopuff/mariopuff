@@ -10,6 +10,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/mariopuff?label=followers&style=flat&labelColor=bc002d&color=ffffff)
 ![GitHub stars](https://img.shields.io/github/stars/mariopuff?affiliations=OWNER&style=flat&labelColor=bc002d&color=ffffff)
 ![profile views](https://komarev.com/ghpvc/?username=mariopuff&color=blueviolet&style=flat&color=bc002d)  
+
 ![HTML](https://img.shields.io/badge/HTML-f16524?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2465f1?logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black)
