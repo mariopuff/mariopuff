@@ -7,19 +7,19 @@
 <div align="right"><sub><i>that’s momo,  he’s just vibing. →</i></sub></div>
 
 <br><br>
-![GitHub followers](https://img.shields.io/github/followers/mariopuff?label=followers&style=flat&labelColor=bc002d&color=ffffff)
-![GitHub stars](https://img.shields.io/github/stars/mariopuff?affiliations=OWNER&style=flat&labelColor=bc002d&color=ffffff)
-![profile views](https://komarev.com/ghpvc/?username=mariopuff&color=blueviolet&style=flat&color=bc002d)  
+[![GitHub followers](https://img.shields.io/github/followers/mariopuff?label=followers&style=flat&labelColor=bc002d&color=ffffff)](https://github.com/mariopuff)
+[![GitHub stars](https://img.shields.io/github/stars/mariopuff?affiliations=OWNER&style=flat&labelColor=bc002d&color=ffffff)](https://github.com/mariopuff)
+[![profile views](https://komarev.com/ghpvc/?username=mariopuff&color=blueviolet&style=flat&color=bc002d)](https://github.com/mariopuff)  
 
-![HTML](https://img.shields.io/badge/HTML-f16524?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-2465f1?logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black)
-![JSON](https://img.shields.io/badge/JSON-F7DF1E?logo=json&logoColor=black)
-![Markdown](https://img.shields.io/badge/Markdown-00a8de?logo=markdown&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
+[![HTML](https://img.shields.io/badge/HTML-f16524?logo=html5&logoColor=white)](https://html.spec.whatwg.org)
+[![CSS](https://img.shields.io/badge/CSS-2465f1?logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css)
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black)](https://nodejs.org/en/)
+[![JSON](https://img.shields.io/badge/JSON-F7DF1E?logo=json&logoColor=black)](www.json.org)
+[![Markdown](https://img.shields.io/badge/Markdown-00a8de?logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white)](https://yaml.org)
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
 [![Scratch](https://img.shields.io/badge/-Scratch-FFA500?logo=scratch&logoColor=white&style=flat)](https://scratch.mit.edu/users/Mario_0000/)
-![GML](https://img.shields.io/badge/GameMaker%20Lang-8bd248?logo=gamemaker&logoColor=white)
+[![GML](https://img.shields.io/badge/GameMaker%20Lang-8bd248?logo=gamemaker&logoColor=white)](https://gamemaker.io/en)
 
 
 shout out to my github bros:
@@ -44,9 +44,9 @@ shout out to my github bros:
 ## 🛠️ tools & technologies
 
 [![Scratch](https://img.shields.io/badge/-Scratch-FFA500?logo=scratch&logoColor=white&style=flat)](https://scratch.mit.edu/users/Mario_0000/)
-![GameMaker](https://img.shields.io/badge/-GameMaker-8bd248?logo=gamemaker&logoColor=white&style=flat)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+[![GameMaker](https://img.shields.io/badge/GameMaker-8bd248?logo=gamemaker&logoColor=white)](https://gamemaker.io/en)
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)](https://code.visualstudio.com)
+[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)](https://git-scm.com)
 
 ---
 
