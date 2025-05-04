@@ -7,6 +7,9 @@
 <div align="right"><sub><i>that’s momo,  he’s just vibing. →</i></sub></div>
 
 <br><br>
+[![Discord](https://img.shields.io/badge/@mariopuff.-5661ea?style=flat&logo=discord&logoColor=white)](https://discord.com/users/913646560838041660)
+[![X](https://img.shields.io/badge/@toybunny__-black?style=flat&logo=x&logoColor=white)](https://x.com/toybunny_)
+[![mariopuff.github.io](https://custom-icon-badges.demolab.com/badge/-mariopuff.github.io-333333?logo=globe)](https://mariopuff.github.io)  
 [![GitHub followers](https://img.shields.io/github/followers/mariopuff?label=followers&style=flat&labelColor=bc002d&color=ffffff)](https://github.com/mariopuff)
 [![GitHub stars](https://img.shields.io/github/stars/mariopuff?affiliations=OWNER&style=flat&labelColor=bc002d&color=ffffff)](https://github.com/mariopuff)
 [![profile views](https://komarev.com/ghpvc/?username=mariopuff&color=blueviolet&style=flat&color=bc002d)](https://github.com/mariopuff)  
@@ -35,7 +38,6 @@ shout out to my github bros:
 🏁 host of the F-FORMULA championship  
 🧱 working on **Fulltimate Custom Night** – GameMaker port  
 🚀 learning GameMaker Studio from the ground up – mechanics, language, assets, etc.  
-💌 reach me: [![Discord](https://img.shields.io/badge/mariopuff.-5661ea?style=flat&logo=discord&logoColor=white)](https://discord.com/users/913646560838041660) [![X](https://img.shields.io/badge/toybunny_-black?style=flat&logo=x&logoColor=white)](https://x.com/toybunny_)  
 ⭐ tyler, the creator fan  
 🐱 fun fact: i have a really strong love for cats!!
 
@@ -43,10 +45,14 @@ shout out to my github bros:
 
 ## 🛠️ tools & technologies
 
-[![Scratch](https://img.shields.io/badge/-Scratch-FFA500?logo=scratch&logoColor=white&style=flat)](https://scratch.mit.edu/users/Mario_0000/)
-[![GameMaker](https://img.shields.io/badge/GameMaker-8bd248?logo=gamemaker&logoColor=white)](https://gamemaker.io/en)
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)](https://code.visualstudio.com)
-[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)](https://git-scm.com)
+<a href="https://scratch.mit.edu/users/Mario_0000/"><img src="https://cdn2.steamgriddb.com/icon/969a086e0717a9b496dd0e9a50ec8010.png" alt="scratch 3.0" height="48px"></a> 
+<a href="https://gamemaker.io/en"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReflYD3bP9E2XvdDCU-8Z42M30Q43YWQjYxg&s" alt="gamemaker studio" height="48px"></a> 
+<a href="https://pixlr.com/express/"><img src="https://pixlr.com/img/general/x-icon.svg" alt="pixlr express" height="48px"></a> 
+<a href="https://www.photopea.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Photopea_logo.svg/1200px-Photopea_logo.svg.png" alt="photopea" height="48px"></a> 
+<a href="https://workspace.google.com/products/sheets/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/1498px-Google_Sheets_logo_%282014-2020%29.svg.png" alt="google sheets" height="48px"></a> 
+<a href="https://code.visualstudio.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/250px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" height="48px"></a> 
+<a href="https://git-scm.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="git" height="48px"></a> 
+<a href="https://github.com/apps/desktop"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" alt="github desktop" height="48px"></a> 
 
 ---
 
@@ -61,10 +67,15 @@ shout out to my github bros:
 
 ## ❓ ask me about
 
+<img src="https://i.pinimg.com/736x/00/09/48/000948e3ef7c4c4736b377452671e49f.jpg" alt="MAX VERSTAPPEN!! " align="right" width="250"/>
+
+
 💬 my game/projects  
 🏎️ formula one (especially Max Verstappen!)  
 📦 game design, mechanics, and Scratch stuff  
 🎤 tyler tracks and albums
+<br><br><br><br><br><br><br><br><br>
+<div align="right"><b>TU DU DU DU MAX VERSTAPPEN</b></div>
 
 ---
 
@@ -98,3 +109,9 @@ shout out to my github bros:
 
 > *"You know what that is? Simply lovely! I'll tell you that!"*  
 > – Max Verstappen, Brazilian GP 2024
+
+---
+
+### credits
+
+some sections inspired by [![max](https://img.shields.io/github/followers/maxeepy?style=flat&label=max%20verstappen&labelColor=32b853&color=fff184)](https://github.com/maxeepy)!
