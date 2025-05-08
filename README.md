@@ -104,6 +104,7 @@ shout out to my github bros:
 [![Steam](https://img.shields.io/badge/-hallwayheat-000000?logo=steam&logoColor=white&style=flat)](https://steamcommunity.com/id/hallwayheat)
 [![Roblox](https://img.shields.io/badge/liminalsoups-gray?style=flat&logo=roblox&logoColor=white)](https://www.roblox.com/users/6220154646/profile)
 [![Game Jolt](https://img.shields.io/badge/mariopuff-CCFF00?logo=game%20jolt&logoColor=black)](https://gamejolt.com/@mariopuff)
+[![Coderberg](https://img.shields.io/badge/mariopuff-2185D0?style=flat&logo=codeberg&logoColor=white)](https://codeberg.org/mariopuff)
 [![Bluesky](https://img.shields.io/badge/liminalsoups-0285FF?logo=bluesky&logoColor=white)](https://bsky.app/profile/liminalsoups.bsky.social)
 [![Mastodon](https://img.shields.io/badge/mariopuff-6364FF?logo=mastodon&logoColor=white)](https://mastodon.social/@mariopuff)
 
