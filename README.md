@@ -91,9 +91,9 @@ shout out to my github bros:
 
 ## 📊 github stats
 
-![mariopuff's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariopuff&show_icons=true&theme=tokyonight&hide_border=true)
+[![mariopuff's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariopuff&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/mariopuff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariopuff&layout=compact&theme=tokyonight&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariopuff&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/mariopuff)
 
 ---
 
@@ -103,7 +103,9 @@ shout out to my github bros:
 [![Spotify](https://img.shields.io/badge/-mariopuff!-1ED760?logo=spotify&logoColor=white&style=flat)](https://open.spotify.com/user/xftko2c2nq2exfwg3tes82asl)
 [![Steam](https://img.shields.io/badge/-hallwayheat-000000?logo=steam&logoColor=white&style=flat)](https://steamcommunity.com/id/hallwayheat)
 [![Roblox](https://img.shields.io/badge/liminalsoups-gray?style=flat&logo=roblox&logoColor=white)](https://www.roblox.com/users/6220154646/profile)
-
+[![Game Jolt](https://img.shields.io/badge/mariopuff-CCFF00?logo=game%20jolt&logoColor=black)](https://gamejolt.com/@mariopuff)
+[![Bluesky](https://img.shields.io/badge/liminalsoups-0285FF?logo=bluesky&logoColor=white)](https://bsky.app/profile/liminalsoups.bsky.social)
+[![Mastodon](https://img.shields.io/badge/mariopuff-6364FF?logo=mastodon&logoColor=white)](https://mastodon.social/@mariopuff)
 
 ---
 
