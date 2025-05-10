@@ -97,10 +97,13 @@ shout out to my github bros:
 
 ---
 
-## 🔗 find me elsewhere
+## 🔗 find me everywhere
 [![YouTube](https://img.shields.io/badge/-Mario__184-FF0000?logo=youtube&logoColor=white&style=flat)](https://youtube.com/@mariopuff184)
 [![Twitch](https://img.shields.io/badge/-mariopuff-9146FF?logo=twitch&logoColor=white&style=flat)](https://twitch.tv/mariopuff)
 [![Spotify](https://img.shields.io/badge/-mariopuff!-1ED760?logo=spotify&logoColor=white&style=flat)](https://open.spotify.com/user/xftko2c2nq2exfwg3tes82asl)
+[![Instagram](https://img.shields.io/badge/mariopuff__-FF0069?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mariopuff_)
+[![Chess.com](https://img.shields.io/badge/Mariopuff-81B64C?style=flat&logo=chess.com&logoColor=white)](https://chess.com/member/mariopuff)
+[![Fandom](https://img.shields.io/badge/Mariomario184-%23FA005A?style=flat&logo=fandom&logoColor=white)](https://community.fandom.com/wiki/User:Mariomario184)
 [![Steam](https://img.shields.io/badge/-hallwayheat-000000?logo=steam&logoColor=white&style=flat)](https://steamcommunity.com/id/hallwayheat)
 [![Roblox](https://img.shields.io/badge/liminalsoups-gray?style=flat&logo=roblox&logoColor=white)](https://www.roblox.com/users/6220154646/profile)
 [![Game Jolt](https://img.shields.io/badge/mariopuff-CCFF00?logo=game%20jolt&logoColor=black)](https://gamejolt.com/@mariopuff)
