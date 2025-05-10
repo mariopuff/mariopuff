@@ -106,6 +106,7 @@ shout out to my github bros:
 [![Fandom](https://img.shields.io/badge/Mariomario184-%23FA005A?style=flat&logo=fandom&logoColor=white)](https://community.fandom.com/wiki/User:Mariomario184)
 [![Steam](https://img.shields.io/badge/-hallwayheat-000000?logo=steam&logoColor=white&style=flat)](https://steamcommunity.com/id/hallwayheat)
 [![Roblox](https://img.shields.io/badge/liminalsoups-gray?style=flat&logo=roblox&logoColor=white)](https://www.roblox.com/users/6220154646/profile)
+[![Tumblr](https://img.shields.io/badge/liminalsoups-36465D?style=flat&logo=tumblr&logoColor=white)](https://www.tumblr.com/liminalsoups)
 [![Soundcloud](https://img.shields.io/badge/donatelloverstappen-FF5500?style=flat&logo=soundcloud&logoColor=white)](https://soundcloud.com/donatelloverstappen)
 [![Game Jolt](https://img.shields.io/badge/mariopuff-CCFF00?logo=game%20jolt&logoColor=black)](https://gamejolt.com/@mariopuff)
 [![Coderberg](https://img.shields.io/badge/mariopuff-2185D0?style=flat&logo=codeberg&logoColor=white)](https://codeberg.org/mariopuff)
