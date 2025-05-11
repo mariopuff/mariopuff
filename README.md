@@ -109,7 +109,9 @@ shout out to my github bros:
 [![Tumblr](https://img.shields.io/badge/liminalsoups-36465D?style=flat&logo=tumblr&logoColor=white)](https://www.tumblr.com/liminalsoups)
 [![Soundcloud](https://img.shields.io/badge/donatelloverstappen-FF5500?style=flat&logo=soundcloud&logoColor=white)](https://soundcloud.com/donatelloverstappen)
 [![Game Jolt](https://img.shields.io/badge/mariopuff-CCFF00?logo=game%20jolt&logoColor=black)](https://gamejolt.com/@mariopuff)
-[![Coderberg](https://img.shields.io/badge/mariopuff-2185D0?style=flat&logo=codeberg&logoColor=white)](https://codeberg.org/mariopuff)
+[![DeviantArt](https://img.shields.io/badge/superjapanesemario84-05CC47?style=flat&logo=deviantart&logoColor=white)](https://www.deviantart.com/superjapanesemario84)
+[![Pinterest](https://img.shields.io/badge/liminalsoups-BD081C?style=flat&logo=pinterest&logoColor=white)](https://pinterest.com/liminalsoups/)
+[![Codeberg](https://img.shields.io/badge/mariopuff-2185D0?style=flat&logo=codeberg&logoColor=white)](https://codeberg.org/mariopuff)
 [![Bluesky](https://img.shields.io/badge/liminalsoups-0285FF?logo=bluesky&logoColor=white)](https://bsky.app/profile/liminalsoups.bsky.social)
 [![Mastodon](https://img.shields.io/badge/mariopuff-6364FF?logo=mastodon&logoColor=white)](https://mastodon.social/@mariopuff)
 
