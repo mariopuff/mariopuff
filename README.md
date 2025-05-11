@@ -12,7 +12,8 @@
 [![mariopuff.github.io](https://custom-icon-badges.demolab.com/badge/-mariopuff.github.io-333333?logo=globe)](https://mariopuff.github.io)  
 [![GitHub followers](https://img.shields.io/github/followers/mariopuff?label=followers&style=flat&labelColor=bc002d&color=ffffff)](https://github.com/mariopuff)
 [![GitHub stars](https://img.shields.io/github/stars/mariopuff?affiliations=OWNER&style=flat&labelColor=bc002d&color=ffffff)](https://github.com/mariopuff)
-[![profile views](https://komarev.com/ghpvc/?username=mariopuff&color=blueviolet&style=flat&color=bc002d)](https://github.com/mariopuff)  
+[![profile views](https://komarev.com/ghpvc/?username=mariopuff&color=blueviolet&style=flat&color=bc002d)](https://github.com/mariopuff)
+[![wakatime](https://wakatime.com/badge/user/f8f76bd0-3d67-4daf-bed9-8803c3da51dc.svg)](https://wakatime.com/@mariopuff)
 
 [![HTML](https://img.shields.io/badge/HTML-f16524?logo=html5&logoColor=white)](https://html.spec.whatwg.org)
 [![CSS](https://img.shields.io/badge/CSS-2465f1?logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css)
@@ -114,6 +115,7 @@ shout out to my github bros:
 [![Codeberg](https://img.shields.io/badge/mariopuff-2185D0?style=flat&logo=codeberg&logoColor=white)](https://codeberg.org/mariopuff)
 [![Bluesky](https://img.shields.io/badge/liminalsoups-0285FF?logo=bluesky&logoColor=white)](https://bsky.app/profile/liminalsoups.bsky.social)
 [![Mastodon](https://img.shields.io/badge/mariopuff-6364FF?logo=mastodon&logoColor=white)](https://mastodon.social/@mariopuff)
+[![Wakatime](https://img.shields.io/badge/mariopuff-blue?style=flat&logo=wakatime&logoColor=white)](https://wakatime.com/@mariopuff)
 
 ---
 
