@@ -37,7 +37,7 @@ shout out to my github bros:
 🎮 game developer (4-year degree in Scratch, new to GameMaker!)  
 🎨 part-time designer & illustrator  
 🏁 host of the F-FORMULA championship  
-🧱 working on **Fulltimate Custom Night** – GameMaker port  
+🧱 working on a *Balatro* mod  
 🚀 learning GameMaker Studio from the ground up – mechanics, language, assets, etc.  
 ⭐ tyler, the creator fan  
 🐱 fun fact: i have a really strong love for cats!!
