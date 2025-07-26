@@ -84,11 +84,19 @@ shout out to my github bros:
 
 ## ✨ featured work
 
-### 🚧 **Fulltimate Custom Night | codename [[CUSTOMIZABLENIGHTMARES](https://github.com/mariopuff/customizablenightmares)]**  
+### 🚧 **Fulltimate Custom Night | codename [[CUSTOMIZABLENIGHTMARES](https://github.com/submini/customizablenightmares)]**  
 🎮 GameMaker port in progress...  
 👥 Working with my friends [UN4YA](https://github.com/UN4YA) and [interseer](https://github.com/4unduck) *(formerly 4unduck)*  
 🧠 Mechanics, systems, FNAF-style strategy, character AIs  
-🐾 80 characters tracked and managed in Scratch 3.0! But none so far in GameMaker...
+🐾 80 characters tracked and managed in Scratch 3.0! But none so far in GameMaker...  
+
+**⛔️ currently cancelled**
+
+### 🃏 **[Shuffle-Puffle](https://github.com/submini/shuffle-puffle) | *Balatro* mod**  
+🎮 Currently still in development  
+📜 Not published to skyline69's [balatro-mod-index](https://github.com/skyline69/balatro-mod-index)... yet  
+👥 Still working with my friends [UN4YA](https://github.com/UN4YA) and [interseer](https://github.com/4unduck) *(formerly 4unduck)*  
+📍 Currently 45 jokers and 1 booster pack (this information may go outdated soon)  
 
 ---
 
