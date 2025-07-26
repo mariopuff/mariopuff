@@ -24,6 +24,7 @@
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
 [![Scratch](https://img.shields.io/badge/-Scratch-FFA500?logo=scratch&logoColor=white&style=flat)](https://scratch.mit.edu/users/Mario_0000/)
 [![GML](https://img.shields.io/badge/GameMaker%20Lang-8bd248?logo=gamemaker&logoColor=white)](https://gamemaker.io/en)
+[![Lua](https://img.shields.io/badge/Lua-%232C2D72?style=flat&logo=lua&logoColor=white)](https://www.lua.org)
 
 
 shout out to my github bros:
